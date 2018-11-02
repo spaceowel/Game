@@ -1,2 +1,5 @@
 var name = document.getElementById("name");
-var 
+var start = document.getElementById("start");
+start.addEventListener("click", function() {
+  
+});
